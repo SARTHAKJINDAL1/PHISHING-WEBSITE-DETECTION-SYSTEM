@@ -11,6 +11,7 @@ The system uses a Decision Tree Classifier trained on a phishing dataset to clas
 * Phishing (Malicious)
 
 The project also includes an interactive command-line interface where users can manually input feature values and get real-time predictions.
+This project solves a real-world cybersecurity problem using machine learning techniques.
 
 ---
 
@@ -177,10 +178,10 @@ python model.py
 
 ## Details
 
-Name: Sarthak Jindal
-Registration Number: 25BCE10189
-Course Code: CSA2001
-Course Title: Fundamentals of AI and ML
-Faculty: Prof. J. Manikandan
+* Name: Sarthak Jindal
+* Registration Number: 25BCE10189
+* Course Code: CSA2001
+* Course Title: Fundamentals of AI and ML
+* Faculty: Prof. J. Manikandan
 
 ---
